@@ -10,5 +10,5 @@ Why is it so undetectable?:
  1. Tippewriter has no anticheat lol
  2. It has multiplemodes:
    - Speedrun (if you use it in scool your teacher will detect it) around 40000 characters in 10min without any issues.
-   - Scool (I dont gona say your teacher will not detect it but if he doesnt look on you hands that good, he will not detect it) around as fast as you normaly      tippe and has a 4% wrong character rate
+   - Scool (I dont gona say your teacher will not detect it but if he doesnt look on your hands that good, he will not detect it) around as fast as you normaly      tippe and has a 4% wrong character rate
    - Auto Farm Scool mode (Please dont use it in scool!!!) it tippes at normal speed but makes lvl after lvl without stopping ( needs manuell stop or when all      lvls done) it also has a wrong character rate of 4%
